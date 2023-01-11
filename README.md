@@ -26,7 +26,7 @@
 <details>
   <summary><b>:zap: Languages and Frameworks</b></summary>
   <p>
-  <img align="left" width="490" height="165" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=rainawan&show_icons=true"/>
+  <img align="left" width="490" height="165" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Famritpandey.medium.com%2Fwhat-go-programming-language-does-and-does-not-have-ed6a9f83ab2d&psig=AOvVaw1h_hNj4BAgqua8rjZMqmoB&ust=1673549062674000&source=images&cd=vfe&ved=0CA4QjRxqFwoTCPC348CWwPwCFQAAAAAdAAAAABAD"/>
   <p>
     <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=GitHub&logoColor=white"/>
