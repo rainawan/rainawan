@@ -15,8 +15,10 @@
 
 &nbsp;&nbsp;&nbsp;:writing_hand: &nbsp;Currently studying Computer Science at Pasadena City College.\
 &nbsp;&nbsp;&nbsp;:round_pushpin: &nbsp;Located in Pasadena, CA.\
+&nbsp;&nbsp;&nbsp;:hugs: &nbsp;Pronouns: She / Her / Hers.\
 &nbsp;&nbsp;&nbsp;:seedling: &nbsp;Love for mathematics and innovation.\
-&nbsp;&nbsp;&nbsp;:computer: &nbsp;Coding since 2021 with 2+ years of experience in software development.
+&nbsp;&nbsp;&nbsp;:speech_balloon: &nbsp;Ask me about my two shih tzus.\
+&nbsp;&nbsp;&nbsp;:computer: &nbsp;2+ years of experience in software development.
 
 
 
@@ -51,7 +53,7 @@
     <img src="https://img.shields.io/badge/NODEJS-339933.svg?&style=flat&logo=node.js&logoColor=white"/>
     <img src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=NPM&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Slack-E01563?style=flat-square&logo=Slack&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=Notion&logoColor=white"/><br/>
+    <img src="https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
     <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
     <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=Google%20Cloud&logoColor=white"/>
@@ -60,5 +62,6 @@
 </p>
 <p>
 </details>
+
 
 
