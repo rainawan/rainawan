@@ -14,9 +14,9 @@
 ### :hear_no_evil: &nbsp;About Me
 
 &nbsp;&nbsp;&nbsp;:writing_hand: &nbsp;Currently studying Computer Science at Pasadena City College.\
+&nbsp;&nbsp;&nbsp;:round_pushpin: &nbsp;Located in Pasadena, CA.\
 &nbsp;&nbsp;&nbsp;:seedling: &nbsp;Love for mathematics and innovation.\
-&nbsp;&nbsp;&nbsp;:computer: &nbsp;Coding since 2021 with 2+ years of experience in enterprise wide software development.\
-&nbsp;&nbsp;&nbsp;:round_pushpin: &nbsp;Located in Pasadena, CA.
+&nbsp;&nbsp;&nbsp;:computer: &nbsp;Coding since 2021 with 2+ years of experience in software development.\
 
 
 
@@ -25,14 +25,15 @@
  ##  My GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> 
  
  <div>
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rainawan" alt="Gift's LangStat" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rainawan&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="Gift's language" height="192px"  width="500px"/>
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rainawan&theme=nightowl" alt="Gift's LangStat" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rainawan&langs_count=10&show_icons=true&locale=en&layout=compact&theme=nightowl" alt="Gift's language" height="192px"  width="500px"/>
 </div>
+<br />
 
 **Expand to view**
 <details>
-  <summary><b>:zap: GitHub Profile Stat</b></summary>
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=rainawan&show_icons=true" />
+  <summary><b>:zap: GitHub Statistics</b></summary>
+  <img src="https://github-readme-stats.vercel.app/api?username=rainawan&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=nightowl" />
 </details>
 <details>
   <summary><b>:zap: Languages and Frameworks</b></summary>
