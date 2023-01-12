@@ -33,7 +33,7 @@
 **Expand to view**
 <details>
   <summary><b>:zap: GitHub Statistics</b></summary>
-  <img src="https://github-readme-stats.vercel.app/api?username=rainawan&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=nightowl" />
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=lauragift21&show_icons=true&theme=nightowl" />
 </details>
 <details>
   <summary><b>:zap: Languages and Frameworks</b></summary>
