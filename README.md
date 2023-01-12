@@ -16,7 +16,7 @@
 &nbsp;&nbsp;&nbsp;:writing_hand: &nbsp;Currently studying Computer Science at Pasadena City College.\
 &nbsp;&nbsp;&nbsp;:round_pushpin: &nbsp;Located in Pasadena, CA.\
 &nbsp;&nbsp;&nbsp;:seedling: &nbsp;Love for mathematics and innovation.\
-&nbsp;&nbsp;&nbsp;:computer: &nbsp;Coding since 2021 with 2+ years of experience in software development.\
+&nbsp;&nbsp;&nbsp;:computer: &nbsp;Coding since 2021 with 2+ years of experience in software development.
 
 
 
@@ -36,9 +36,9 @@
   <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=lauragift21&show_icons=true&theme=nightowl" />
 </details>
 <details>
-  <summary><b>:zap: Languages and Frameworks</b></summary>
+  <summary><b>:zap: Main Tech Stack</b></summary>
   <p>
-  <img align="left" width="490" height="165" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Famritpandey.medium.com%2Fwhat-go-programming-language-does-and-does-not-have-ed6a9f83ab2d&psig=AOvVaw1h_hNj4BAgqua8rjZMqmoB&ust=1673549062674000&source=images&cd=vfe&ved=0CA4QjRxqFwoTCPC348CWwPwCFQAAAAAdAAAAABAD"/>
+  <img align="left" width="400" height="200" src="https://github.com/rainawan/Profile/blob/a9731846e5fc94a85aa8680251dac9a72253b765/images/10_coding_dribbble.gif"/>
   <p>
     <img src="https://img.shields.io/badge/PYTHON-3776AB.svg?&style=flat-square&logo=python&logoColor=white"/>
     <img src="https://img.shields.io/badge/C++-00599C.svg?&style=flat-square&logo=c%2B%2B&logoColor=white"/>
