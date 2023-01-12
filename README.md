@@ -33,12 +33,12 @@
 **Expand to view**
 <details>
   <summary><b>:zap: GitHub Statistics</b></summary>
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=lauragift21&show_icons=true&theme=nightowl" />
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=rainawan&show_icons=true&theme=nightowl" />
 </details>
 <details>
   <summary><b>:zap: Main Tech Stack</b></summary>
   <p>
-  <img align="left" width="400" height="200" src="https://github.com/rainawan/Profile/blob/a9731846e5fc94a85aa8680251dac9a72253b765/images/10_coding_dribbble.gif"/>
+  <img align="left" width="350" height="200" src="https://github.com/rainawan/Profile/blob/a9731846e5fc94a85aa8680251dac9a72253b765/images/10_coding_dribbble.gif"/>
   <p>
     <img src="https://img.shields.io/badge/PYTHON-3776AB.svg?&style=flat-square&logo=python&logoColor=white"/>
     <img src="https://img.shields.io/badge/C++-00599C.svg?&style=flat-square&logo=c%2B%2B&logoColor=white"/>
