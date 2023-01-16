@@ -36,6 +36,7 @@
 <details>
   <summary><b>:zap: GitHub Statistics</b></summary>
   <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=rainawan&show_icons=true&theme=nightowl" />
+  &nbsp;&nbsp;&nbsp;<img src="https://github.com/rainawan/rainawan/blob/d0408e012d174e6b6f76ade19326a22cf7a85ae2/images/planets.gif" />
 </details>
 <details>
   <summary><b>:zap: Main Tech Stack</b></summary>
