@@ -40,7 +40,7 @@
 <details>
   <summary><b>:zap: Main Tech Stack</b></summary>
   <p>
-  <img align="left" width="350" height="200" src="https://github.com/rainawan/Profile/blob/a9731846e5fc94a85aa8680251dac9a72253b765/images/10_coding_dribbble.gif"/>
+  <img align="left" width=230 src="https://github.com/rainawan/rainawan/blob/28d242c6826d4fd12c359a3bb27eb8b9c342c76d/images/coding.gif"/>
   <p>
     <img src="https://img.shields.io/badge/PYTHON-3776AB.svg?&style=flat-square&logo=python&logoColor=white"/>
     <img src="https://img.shields.io/badge/C++-00599C.svg?&style=flat-square&logo=c%2B%2B&logoColor=white"/>
