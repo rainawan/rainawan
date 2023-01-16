@@ -28,7 +28,7 @@
  
  <div>
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rainawan&theme=nightowl" alt="Gift's LangStat" width="430px"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rainawan&langs_count=10&show_icons=true&locale=en&layout=compact&theme=nightowl" alt="Gift's language"  width="400px"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rainawan&langs_count=10&show_icons=true&locale=en&layout=compact&theme=nightowl" alt="Gift's language"  height="170px" width="400px"/>
 </div>
 <br />
 
