@@ -40,25 +40,26 @@
 <details>
   <summary><b>:zap: Main Tech Stack</b></summary>
   <p>
-  <img align="left" width=230 src="https://github.com/rainawan/rainawan/blob/28d242c6826d4fd12c359a3bb27eb8b9c342c76d/images/coding.gif"/>
+  <img align="left" width=250 src="https://github.com/rainawan/rainawan/blob/28d242c6826d4fd12c359a3bb27eb8b9c342c76d/images/coding.gif"/>
   <p>
-    <img src="https://img.shields.io/badge/PYTHON-3776AB.svg?&style=flat-square&logo=python&logoColor=white"/>
+    <br><br>
+    &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/PYTHON-3776AB.svg?&style=flat-square&logo=python&logoColor=white"/>
     <img src="https://img.shields.io/badge/C++-00599C.svg?&style=flat-square&logo=c%2B%2B&logoColor=white"/>
-    <img src="https://img.shields.io/badge/JAVASCRIPT-323330.svg?&style=flat&logo=javascript&logoColor=%23F7DF1E"/>
-    <img src="https://img.shields.io/badge/JAVA-007396.svg?&style=flat&logo=java&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-REACT-4285F4?style=flat-square&logo=react&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
+    <img src="https://img.shields.io/badge/JAVASCRIPT-323330.svg?&style=flat-square&logo=javascript&logoColor=%23F7DF1E"/>
+    <img src="https://img.shields.io/badge/JAVA-007396.svg?&style=flat-square&logo=java&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-REACT-4285F4?style=flat-square&logo=react&logoColor=white"/><br>
+    &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=GitHub&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Git-F44D27?style=flat-square&logo=Git&logoColor=white"/>
-    <img src="https://img.shields.io/badge/FIREBASE-FFCA28.svg?&style=flat&logo=firebase&logoColor=black"/>
-    <img src="https://img.shields.io/badge/NODEJS-339933.svg?&style=flat&logo=node.js&logoColor=white"/>
+    <img src="https://img.shields.io/badge/FIREBASE-FFCA28.svg?&style=flat-square&logo=firebase&logoColor=black"/><br>
+    &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/NODEJS-339933.svg?&style=flat-square&logo=node.js&logoColor=white"/>
     <img src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=NPM&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Slack-E01563?style=flat-square&logo=Slack&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
     <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/><br>
+    &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=Google%20Cloud&logoColor=white"/>
-    <img src="https://img.shields.io/badge/SASS-CC6699.svg?&style=flat&logo=sass&logoColor=white"/>
+    <img src="https://img.shields.io/badge/SASS-CC6699.svg?&style=flat-square&logo=sass&logoColor=white"/>
   </p>
 </p>
 <p>
