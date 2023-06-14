@@ -13,12 +13,12 @@
 
 ### :hear_no_evil: &nbsp;About Me
 
-&nbsp;&nbsp;&nbsp;:writing_hand: &nbsp;Currently studying Computer Science at Pasadena City College.\
-&nbsp;&nbsp;&nbsp;:round_pushpin: &nbsp;Located in Pasadena, CA.\
+&nbsp;&nbsp;&nbsp;:writing_hand: &nbsp;Currently studying Computer Science and Linguistics at UCLA.\
+&nbsp;&nbsp;&nbsp;:round_pushpin: &nbsp;Located in Los Angeles, CA.\
 &nbsp;&nbsp;&nbsp;:hugs: &nbsp;Pronouns: She / Her / Hers.\
 &nbsp;&nbsp;&nbsp;:seedling: &nbsp;Love for mathematics and innovation.\
 &nbsp;&nbsp;&nbsp;:speech_balloon: &nbsp;Ask me about my two shih tzus.\
-&nbsp;&nbsp;&nbsp;:computer: &nbsp;2+ years of experience in software development.
+&nbsp;&nbsp;&nbsp;:computer: &nbsp;3+ years of experience in software development.
 
 
 
