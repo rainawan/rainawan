@@ -13,12 +13,12 @@
 
 ### :hear_no_evil: &nbsp;About Me
 
-&nbsp;&nbsp;&nbsp;:writing_hand: &nbsp;Currently studying Computer Science and Linguistics at UCLA.\
-&nbsp;&nbsp;&nbsp;:round_pushpin: &nbsp;Located in Los Angeles, CA.\
-&nbsp;&nbsp;&nbsp;:hugs: &nbsp;Pronouns: She / Her / Hers.\
-&nbsp;&nbsp;&nbsp;:seedling: &nbsp;Love for mathematics and innovation.\
-&nbsp;&nbsp;&nbsp;:speech_balloon: &nbsp;Ask me about my two shih tzus.\
-&nbsp;&nbsp;&nbsp;:computer: &nbsp;3+ years of experience in software development.
+&nbsp;&nbsp;&nbsp;✏️: &nbsp;Currently studying Computer Science and Linguistics at UCLA.\
+&nbsp;&nbsp;&nbsp;📌: &nbsp;Located in Los Angeles, CA.\
+&nbsp;&nbsp;&nbsp;🤗: &nbsp;Pronouns: She / Her / Hers.\
+&nbsp;&nbsp;&nbsp;🌱: &nbsp;Love for mathematics and innovation.\
+&nbsp;&nbsp;&nbsp;💭: &nbsp;Ask me about my two shih tzus.\
+&nbsp;&nbsp;&nbsp;💻: &nbsp;3+ years of experience in software development.
 
 
 
