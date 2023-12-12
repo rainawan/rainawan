@@ -13,7 +13,8 @@
 
 ### :hear_no_evil: &nbsp;About Me
 
-&nbsp;&nbsp;&nbsp;✏️: &nbsp;Currently studying Computer Science and Linguistics at UCLA.\
+&nbsp;&nbsp;&nbsp;🐻: &nbsp;Currently studying Computer Science and Linguistics at UCLA.\
+&nbsp;&nbsp;&nbsp;👩‍🎓: &nbsp;Graduating Spring 2025.\
 &nbsp;&nbsp;&nbsp;📌: &nbsp;Located in Los Angeles, CA.\
 &nbsp;&nbsp;&nbsp;🤗: &nbsp;Pronouns: She / Her / Hers.\
 &nbsp;&nbsp;&nbsp;🌱: &nbsp;Love for mathematics and innovation.\
