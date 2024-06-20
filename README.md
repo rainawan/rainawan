@@ -16,7 +16,6 @@
 &nbsp;&nbsp;&nbsp;🐻: &nbsp;Currently studying Computer Science and Linguistics at UCLA.\
 &nbsp;&nbsp;&nbsp;👩‍🎓: &nbsp;Graduating Spring 2025.\
 &nbsp;&nbsp;&nbsp;📌: &nbsp;Located in Los Angeles, CA.\
-&nbsp;&nbsp;&nbsp;🤗: &nbsp;Pronouns: She / Her / Hers.\
 &nbsp;&nbsp;&nbsp;🌱: &nbsp;Love for mathematics and innovation.\
 &nbsp;&nbsp;&nbsp;💭: &nbsp;Ask me about my two shih tzus.\
 &nbsp;&nbsp;&nbsp;💻: &nbsp;3+ years of experience in software development.
