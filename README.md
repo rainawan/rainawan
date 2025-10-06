@@ -13,12 +13,12 @@
 
 ### :hear_no_evil: &nbsp;About Me
 
-&nbsp;&nbsp;&nbsp;🐻: &nbsp;Currently studying Computer Science and Linguistics at UCLA.\
-&nbsp;&nbsp;&nbsp;👩‍🎓: &nbsp;Graduating June 2025.\
-&nbsp;&nbsp;&nbsp;📌: &nbsp;Located in Los Angeles, CA.\
+&nbsp;&nbsp;&nbsp;🐻: &nbsp;Bachelor's in Computer Science and Linguistics at UCLA.\
+&nbsp;&nbsp;&nbsp;👩‍🎓: &nbsp;Graduated June 2025.\
+&nbsp;&nbsp;&nbsp;📌: &nbsp;Located in San Francisco, CA.\
 &nbsp;&nbsp;&nbsp;🌱: &nbsp;Love for mathematics and innovation.\
 &nbsp;&nbsp;&nbsp;💭: &nbsp;Ask me about my two shih tzus.\
-&nbsp;&nbsp;&nbsp;💻: &nbsp;4+ years of experience in software development.
+&nbsp;&nbsp;&nbsp;💻: &nbsp;5+ years of experience in software development.
 
 
 
